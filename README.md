@@ -8,6 +8,6 @@
 - Building my first ML Project: Movie Recommendation System
 
 💬 Always excited to learn new technologies and work on real-world projects in AI/ML.  
-📫 How to reach me: [LinkedIn Profile Link] | [Email Address]
+📫 How to reach me: [www.linkedin.com/in/ankit-m-131345264] | [ankitmenon1234@gmail.com]
 
 #MachineLearning #DeepLearning #AIML #StudentDeveloper
